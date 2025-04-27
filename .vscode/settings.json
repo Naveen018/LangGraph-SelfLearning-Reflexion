@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./3_reflexion_agent/responder_revisor_"
+    ]
+}
